@@ -1,1 +1,2 @@
 Hello, how are you?
+Trying to see if commit messages open in VS Code instead of Vim.
